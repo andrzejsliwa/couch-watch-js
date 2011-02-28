@@ -18,4 +18,4 @@ May be freely distributed under the [MIT license](https://github.com/andrzejsliw
  =================
 
    * [couch-watch](https://github.com/andrzejsliwa/couch-watch) - Main Project
-   * [couch-watch-rb](https://github.com/andrzejsliwa/couch-watch-rb)
+   * [couch-watch-rb](https://github.com/andrzejsliwa/couch-watch-rb) - CouchWatch Ruby Client
